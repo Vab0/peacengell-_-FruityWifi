@@ -1,5 +1,7 @@
 #!/bin/bash
-
+###TODO --> devide the OS verfication to shorten install time.
+     ###---> set browser setup and auto start on reboot.
+       ###---> add web-server config.
 # CONFIG
 # --------------------------------------------------------
 # Setup 'sudo' or 'danger' (root exec).
